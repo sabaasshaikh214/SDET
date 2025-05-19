@@ -12,7 +12,7 @@ public class Task_01 {
  int min= (a<b) ? a : b;
  System.out.println("Min number is=" +min);
  
-		 
+ System.out.println("Min number is=" +min);
 
 	}
 
